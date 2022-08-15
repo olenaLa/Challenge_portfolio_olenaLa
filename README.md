@@ -34,3 +34,8 @@
 * //*[@id="__next"]/form/div/div[1]/a
 * //*[text()="Remind password"]
 * //child::div/a
+
+**list_languages_hyperlink_xpath**
+* //*[@id="menu-"]/div[3]/ul
+* //child::div/div[3]/ul
+* //*[contains(@class, "MuiTypography-root MuiMenu-list")]
