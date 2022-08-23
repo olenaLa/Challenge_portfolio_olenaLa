@@ -30,7 +30,7 @@
 * //button[*]
 * //button[span] 
 
-**remaind_password_hyperlink_xpath**
+**remained_password_hyperlink_xpath**
 * //*[@id="__next"]/form/div/div[1]/a
 * //*[text()="Remind password"]
 * //child::div/a
